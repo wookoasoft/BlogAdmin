@@ -22,4 +22,4 @@ using System.Windows;
                                               // 리소스가 없는 경우에 사용됨)
 )]
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.1.0.0")]
